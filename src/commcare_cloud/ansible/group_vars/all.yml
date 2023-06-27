@@ -14,7 +14,7 @@ encrypted_root: "/opt/data"
 root_encryption_mode: "ecryptfs"
 encrypted_tmp: "/opt/tmp"
 project: "commcare-hq"
-commcarehq_repository: https://github.com/dimagi/commcare-hq.git
+commcarehq_repository: https://github.com/MichaelGui/commcare-hq.git
 
 prometheus_monitoring_enabled: False
 
